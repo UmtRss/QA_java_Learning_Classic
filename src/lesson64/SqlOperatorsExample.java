@@ -7,7 +7,7 @@ public class SqlOperatorsExample {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/company_db";
         String username = "root";
-        String password = "HB140325@";
+        String password = "1234";
 
         Connection conn = null;
         PreparedStatement ps = null;
