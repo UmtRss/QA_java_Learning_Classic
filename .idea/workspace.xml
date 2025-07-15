@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fbff304-7d3e-4cf4-9f6c-e3ccd5d8fc5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/auto_service_annotations_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA_Java_Learning_Classic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson42/tests/ExplicitFluentWaitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson42/utilities/Driver.java" afterDir="false" />
-    </list>
+    <list default="true" id="4fbff304-7d3e-4cf4-9f6c-e3ccd5d8fc5c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ztgVlLvvMY3m8BxrCzIMCQjrDe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,12 +31,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlertHandlingTest.executor": "Run",
+    "Application.ClickAndHoldTest.executor": "Run",
+    "Application.DBModificationTest.executor": "Run",
+    "Application.DBTestCase.executor": "Run",
+    "Application.DoubleClickTest.executor": "Run",
+    "Application.DropdownTest.executor": "Run",
+    "Application.FileDownloadTest.executor": "Run",
+    "Application.FileUploadTest.executor": "Run",
+    "Application.HoverTest.executor": "Run",
+    "Application.IframeSwitchTest.executor": "Run",
+    "Application.JavaScriptAlertTest.executor": "Run",
+    "Application.JavaScriptExecutorTest.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NavigationTest.executor": "Run",
+    "Application.NestedIframeTest.executor": "Run",
+    "Application.PreparedStatementExample.executor": "Run",
+    "Application.RightClickTest.executor": "Run",
+    "Application.ScreenshotTest.executor": "Run",
+    "Application.SliderTest.executor": "Run",
+    "Application.WindowSwitchTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.ExplicitFluentWaitTest.executor": "Run",
+    "TestNG.WebTablesTest.executor": "Run",
     "git-widget-placeholder": "master",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
@@ -62,6 +72,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebTablesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Java_Learning_Classic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson43.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lesson43" />
+      <option name="MAIN_CLASS_NAME" value="lesson43.WebTablesTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WebTablesTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,5 +104,16 @@
       <updated>1752555810620</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson43/WebTablesTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
